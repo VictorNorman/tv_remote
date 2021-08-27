@@ -1,5 +1,7 @@
 {
   "name": "tv_remote",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
